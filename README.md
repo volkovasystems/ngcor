@@ -1,0 +1,2 @@
+# ngcor
+EngineCore class factory.
